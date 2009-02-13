@@ -1,0 +1,21 @@
+# ClassListPhotos for Jenzabar JICS 6.4+
+
+ClassListPhotos is a small JFX extension that brings student photos to Jenzabar JICS CRM Faculty class lists. This extension was developed by Luke Hatcher at Centre College and is released under the MIT license. See LICENSE.TXT in the download package for more details.
+
+## How it works
+
+ClassListPhotos inserts a student photo column onto the left side of the Class List portion of the Faculty Course Control portlet by injecting some javascript after a class list is loaded by the browser.
+As of version 1.0, released June 4th, 2008, the student photo is pulled using Framework calls, meaning it should work without modification for most JICS installs.
+[edit]How to Install
+Download the latest version of this project
+Extract the `ClassListPhotos` folder into your `JFX/ext` directory
+
+## Version History
+
+1.0 Final - Released 6/4/2008 - Updated script retrieves photos through framework calls
+1.0b - Released 6/3/2008 - Updated script to only execute when the ClassList exists on the page
+1.0a - Released 6/2/2008 - Initial release of the extension
+
+## Having trouble?
+
+If you're having trouble with this extension, feel free to contact Luke Hatcher. It's possible with future releases that some of the scraping code will need to be updated. I'm hopeful that the base product will support student photos in class lists eventually.

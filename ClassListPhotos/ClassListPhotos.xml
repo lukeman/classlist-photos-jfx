@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<name>Class List Photos</name>
+<author>Luke Hatcher</author>
+<authorEmail>luke@centre.edu</authorEmail>
+<authorUrl>http://helpdesk.centre.edu</authorUrl>
+<creationDate>6/2/2008</creationDate>
+<version>1.0</version>
+<description>
+  This extension adds student photos to the Faculty CRM Class List portlet.
+</description>
